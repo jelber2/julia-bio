@@ -15,3 +15,6 @@ https://gist.github.com/jelber2/47129820373474a768dacabc0e686fdc
 
 ## changeBAMquality.jl
 https://gist.github.com/jelber2/99d947ece717700bbe6f7cec9295381a
+
+## PlotQualityHistogram.jl 
+https://gist.github.com/jelber2/547eb590b6d8eb3ce61eac16948b3256
