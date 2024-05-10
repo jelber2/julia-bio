@@ -18,3 +18,6 @@ https://gist.github.com/jelber2/99d947ece717700bbe6f7cec9295381a
 
 ## PlotQualityHistogram.jl 
 https://gist.github.com/jelber2/547eb590b6d8eb3ce61eac16948b3256
+
+## Plot_Animated_Nanopore_Quality_x_Length_2D_Contours.jl
+https://gist.github.com/jelber2/f22c24442c34f872d8ebf073ad721476
