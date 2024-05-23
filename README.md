@@ -21,3 +21,6 @@ https://gist.github.com/jelber2/547eb590b6d8eb3ce61eac16948b3256
 
 ## Plot_Animated_Nanopore_Quality_x_Length_2D_Contours.jl
 https://gist.github.com/jelber2/f22c24442c34f872d8ebf073ad721476
+
+## Estimating_effect_of_error-correction_on_read_phase_switches_via_HG002_hapmers.jl 
+https://gist.github.com/jelber2/45225fa0937b59f72bbdddf8d694eb70
