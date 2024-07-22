@@ -24,3 +24,6 @@ https://gist.github.com/jelber2/f22c24442c34f872d8ebf073ad721476
 
 ## Estimating_effect_of_error-correction_on_read_phase_switches_via_HG002_hapmers.jl 
 https://gist.github.com/jelber2/45225fa0937b59f72bbdddf8d694eb70
+
+## long-reads-shredded-2-hi-c-pairs.jl
+https://gist.github.com/jelber2/4053b3c10a495c331e5420c54b9b1d6c
