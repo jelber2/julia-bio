@@ -13,6 +13,9 @@ https://gist.github.com/jelber2/53a95d44667cf1a8d84af6cde6931817
 ## shredBAM.jl
 https://gist.github.com/jelber2/47129820373474a768dacabc0e686fdc
 
+## shredBAM-pairs.jl
+https://gist.github.com/jelber2/01511d3b47c6f9ab610a9a599603733a
+
 ## changeBAMquality.jl
 https://gist.github.com/jelber2/99d947ece717700bbe6f7cec9295381a
 
